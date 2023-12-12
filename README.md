@@ -4,7 +4,7 @@
 
 We are considering the following set of all 3-digits combinations:
 
-$$\mathcal{S} = {1, ..., 5}.$$
+$$\mathcal{S} = \\{1, ..., 5\\}.$$
 
 The elements $x\in\mathcal{S}$ are called codes.
 
@@ -12,7 +12,7 @@ The elements $x\in\mathcal{S}$ are called codes.
 
 A criteria is a function $C$ associating to every code a binary value:
 
-$$ C:\mathcal{S}\to{0,1}.$$
+$$ C:\mathcal{S}\to\\{0,1\\}.$$
 
 We say that a code $x\in\mathcal{S}$ satisfies the criteria $C$ if $C(x)=1$.
 
