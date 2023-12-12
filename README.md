@@ -4,7 +4,7 @@
 
 We are considering the following set of all 3-digits combinations:
 
-$$\mathcal{S} = \\{1, ..., 5\\}.$$
+$$\mathcal{S} = \\{1, ..., 5\\}^3.$$
 
 The elements $x\in\mathcal{S}$ are called codes.
 
